@@ -2,4 +2,4 @@
 
 ---
 
-![Symposium2023](Symposium23Banner.png)
+![Symposium2023](profile/Symposium23Banner.png)
